@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 ,cctv-1
+https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 ,cctv-6
+https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
